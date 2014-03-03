@@ -17,7 +17,7 @@
   "author": "kirkkohler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jane-doe/node-example/issues"
+    "url": "https://github.com/kirkkohler/node-example/issues"
   },
   "dependencies": {
     "logfmt": "~0.21.0"
